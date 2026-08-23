@@ -8,12 +8,7 @@
 
 <h3><code>rajannishad2525@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./ascii-portrait.svg" width="330" alt="Rajan Nishad" /></td>
-<td valign="top"><img src="./info-card.svg" width="470" alt="About Rajan Nishad" /></td>
-</tr>
-</table>
+<img src="./info-card.svg" width="520" alt="About Rajan Nishad" />
 
 <br><br>
 
