@@ -19,7 +19,7 @@
 <g class="row" style="animation-delay:0.33s"><text x="20" y="103" class="k">Stack</text><text x="102" y="103" class="v">Next.js 15, React 19, Tailwind, Node, Python</text></g>
 <g class="row" style="animation-delay:0.40s"><text x="20" y="122" class="k">Also</text><text x="102" y="122" class="v">Electron desktop apps, Telegram bots, SEO</text></g>
 <g class="row" style="animation-delay:0.47s"><text x="20" y="141" class="k">Learning</text><text x="102" y="141" class="v">DSA in Java, Generative AI and agents</text></g>
-<g class="row" style="animation-delay:0.54s"><text x="20" y="160" class="k">Langs</text><text x="102" y="160" class="v">JavaScript, C++, HTML</text></g>
+<g class="row" style="animation-delay:0.54s"><text x="20" y="160" class="k">Langs</text><text x="102" y="160" class="v">JavaScript, C++, Python, HTML</text></g>
 <g class="row" style="animation-delay:0.61s"><text x="20" y="179" class="k">Uptime</text><text x="102" y="179" class="v">shipping since Mar 2026</text></g>
 <circle cx="26" cy="214" r="5" fill="#ff5f56" opacity=".85"/><circle cx="41" cy="214" r="5" fill="#ffbd2e" opacity=".85"/><circle cx="56" cy="214" r="5" fill="#27c93f" opacity=".85"/><circle cx="71" cy="214" r="5" fill="#58a6ff" opacity=".85"/><circle cx="86" cy="214" r="5" fill="#f778ba" opacity=".85"/><circle cx="101" cy="214" r="5" fill="#39d353" opacity=".85"/>
 </svg>
