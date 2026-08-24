@@ -1823,13 +1823,18 @@
   },
   {
    "date": "2026-08-23",
+   "level": 4,
+   "count": 4
+  },
+  {
+   "date": "2026-08-24",
    "level": 0,
    "count": 0
   }
  ],
- "total": 29,
+ "total": 33,
  "longestStreak": 2,
- "currentStreak": 0,
+ "currentStreak": 1,
  "from": "2025-08-24",
- "to": "2026-08-23"
+ "to": "2026-08-24"
 }
