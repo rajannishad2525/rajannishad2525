@@ -1848,13 +1848,18 @@
   },
   {
    "date": "2026-08-28",
+   "level": 2,
+   "count": 1
+  },
+  {
+   "date": "2026-08-29",
    "level": 0,
    "count": 0
   }
  ],
- "total": 37,
- "longestStreak": 5,
- "currentStreak": 5,
+ "total": 38,
+ "longestStreak": 6,
+ "currentStreak": 6,
  "from": "2025-08-24",
- "to": "2026-08-28"
+ "to": "2026-08-29"
 }
