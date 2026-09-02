@@ -391,8 +391,9 @@
 <rect x="744" y="110" width="11" height="11" rx="2" fill="#006d32" class="c" style="animation-delay:1.026s"><title>1 contribution on 2026-08-29</title></rect>
 <rect x="758" y="26" width="11" height="11" rx="2" fill="#006d32" class="c" style="animation-delay:0.936s"><title>1 contribution on 2026-08-30</title></rect>
 <rect x="758" y="40" width="11" height="11" rx="2" fill="#006d32" class="c" style="animation-delay:0.954s"><title>1 contribution on 2026-08-31</title></rect>
-<rect x="758" y="54" width="11" height="11" rx="2" fill="#161b22" class="c" style="animation-delay:0.972s"><title>No contributions on 2026-09-01</title></rect>
-<text x="30" y="146" class="stat"><tspan class="num">41</tspan> contributions &#183; streak <tspan class="num">9</tspan> &#183; best <tspan class="num">9</tspan></text>
+<rect x="758" y="54" width="11" height="11" rx="2" fill="#006d32" class="c" style="animation-delay:0.972s"><title>1 contribution on 2026-09-01</title></rect>
+<rect x="758" y="68" width="11" height="11" rx="2" fill="#161b22" class="c" style="animation-delay:0.990s"><title>No contributions on 2026-09-02</title></rect>
+<text x="30" y="146" class="stat"><tspan class="num">42</tspan> contributions &#183; streak <tspan class="num">10</tspan> &#183; best <tspan class="num">10</tspan></text>
 <text x="627" y="146" class="lbl" text-anchor="end">Less</text>
 <rect x="633" y="137" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="646" y="137" width="11" height="11" rx="2" fill="#0e4429"/>
