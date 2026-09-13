@@ -2,41 +2,6 @@
  "user": "rajannishad2525",
  "days": [
   {
-   "date": "2025-09-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-08",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-09",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-10",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-11",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-13",
-   "level": 0,
-   "count": 0
-  },
-  {
    "date": "2025-09-14",
    "level": 0,
    "count": 0
@@ -1853,13 +1818,18 @@
   },
   {
    "date": "2026-09-12",
+   "level": 2,
+   "count": 1
+  },
+  {
+   "date": "2026-09-13",
    "level": 0,
    "count": 0
   }
  ],
- "total": 52,
- "longestStreak": 20,
- "currentStreak": 20,
- "from": "2025-09-07",
- "to": "2026-09-12"
+ "total": 53,
+ "longestStreak": 21,
+ "currentStreak": 21,
+ "from": "2025-09-14",
+ "to": "2026-09-13"
 }
