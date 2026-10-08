@@ -1838,13 +1838,18 @@
   },
   {
    "date": "2026-10-07",
+   "level": 2,
+   "count": 1
+  },
+  {
+   "date": "2026-10-08",
    "level": 0,
    "count": 0
   }
  ],
- "total": 77,
- "longestStreak": 45,
- "currentStreak": 45,
+ "total": 78,
+ "longestStreak": 46,
+ "currentStreak": 46,
  "from": "2025-10-05",
- "to": "2026-10-07"
+ "to": "2026-10-08"
 }
