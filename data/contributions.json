@@ -1833,13 +1833,18 @@
   },
   {
    "date": "2026-11-10",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-11",
    "level": 0,
    "count": 0
   }
  ],
- "total": 110,
+ "total": 111,
  "longestStreak": 74,
- "currentStreak": 4,
+ "currentStreak": 5,
  "from": "2025-11-09",
- "to": "2026-11-10"
+ "to": "2026-11-11"
 }
