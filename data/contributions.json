@@ -1533,8 +1533,8 @@
   },
   {
    "date": "2026-09-11",
-   "level": 1,
-   "count": 1
+   "level": 3,
+   "count": 3
   },
   {
    "date": "2026-09-12",
@@ -1553,8 +1553,8 @@
   },
   {
    "date": "2026-09-15",
-   "level": 1,
-   "count": 1
+   "level": 2,
+   "count": 2
   },
   {
    "date": "2026-09-16",
@@ -1773,8 +1773,8 @@
   },
   {
    "date": "2026-10-29",
-   "level": 1,
-   "count": 1
+   "level": 4,
+   "count": 15
   },
   {
    "date": "2026-10-30",
@@ -1843,13 +1843,18 @@
   },
   {
    "date": "2026-11-12",
-   "level": 0,
-   "count": 0
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-13",
+   "level": 4,
+   "count": 4
   }
  ],
- "total": 112,
+ "total": 134,
  "longestStreak": 74,
- "currentStreak": 6,
+ "currentStreak": 8,
  "from": "2025-11-09",
- "to": "2026-11-12"
+ "to": "2026-11-13"
 }
